@@ -252,6 +252,7 @@ NuGet packages must be added to support the database and diagnostics used in thi
 * Select **Add Package**
 * In the **Select Projects** window, select **Ok**
 * In the **License Agreement** window, select **Agree**
+* Follow the preceding instructions to add the `Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore` package.
 
 ---
 
